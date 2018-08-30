@@ -1,4 +1,4 @@
 # hello-world
 
-Hello friends,
-  I am Aathirai.I love coding.
+
+  I am Aathirai and I love coding.
